@@ -1,11 +1,16 @@
 # Tableau-Dashboard-and-Storytelling-Adidas-Sales
 An interactive Tableau dashboard to analyze Adidas US sales data along with Storytelling.
 
-Project: Adidas US Sales Dashboard
+Project: Adidas US Sales Dashboard.
+
 Objective: Developed an interactive Tableau dashboard to analyze Adidas US sales data.
+
 Data Source: Kaggle dataset.
+
 Key Analyses: Monthly sales trends, regional performance by state, retailer effectiveness, sales methods, and top 10 cities by profit.
+
 Tools Used: Tableau.
+
 Outcome: Provided actionable insights for optimizing marketing strategies, inventory management, and retailer partnerships.
 
 In today's dynamic business landscape, data-driven decision-making has become 
